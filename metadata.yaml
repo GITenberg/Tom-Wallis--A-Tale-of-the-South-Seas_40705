@@ -1,0 +1,36 @@
+_repo: Tom-Wallis--A-Tale-of-the-South-Seas_40705
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Speed, Lancelot
+    birthdate: 1860
+    deathdate: 1931
+    gutenberg_agent_id: '9847'
+    url: http://www.gutenberg.org/2009/agents/9847
+    wikipedia: http://en.wikipedia.org/wiki/Lancelot_Speed
+covers:
+- cover_type: archival
+  image_path: 40705-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Becke, Louis
+    alias: Becke, George Louis
+    birthdate: 1855
+    deathdate: 1913
+    gutenberg_agent_id: '1317'
+    url: http://www.gutenberg.org/2009/agents/1317
+    wikipedia: http://en.wikipedia.org/wiki/George_Lewis_Becke
+description: ''
+gutenberg_issued: '2012-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40705'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Oceania -- Fiction'
+title: 'Tom Wallis: A Tale of the South Seas'
+url: http://www.gutenberg.org/ebooks/40705
